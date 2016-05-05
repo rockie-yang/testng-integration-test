@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- it only used if wanna extra control -->
+<!-- e.g. only execute part of the unit test case-->
+<suite name="IntegrationTestSmoke" parallel="false">
+  <test name="Smoke1">
+    <classes>
+      <class name="com.rockiey.test.integration.testng.ITSmoke"/>
+    </classes>
+  </test>
+</suite>

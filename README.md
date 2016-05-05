@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/rockiey/testng-integration-test.svg?branch=master)](https://travis-ci.org/rockiey/junit-integration-test)
+[![Build Status](https://travis-ci.org/rockiey/testng-integration-test.svg?branch=master)](https://travis-ci.org/rockiey/testng-integration-test)
 
 # TestNG integration test example
 
